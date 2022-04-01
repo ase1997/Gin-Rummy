@@ -9,7 +9,7 @@ UNCC ECGR 2104 (C++ Programming II) Final Project
 ## Dependencies:
   - Dev-C++ IDE
 
-## Author
+## Authors
 Dmitri Gutuleac. Khoa Do. Shanle Yao. Kyle Marks. All Rights Reserved.
 
 ## Reference
